@@ -110,6 +110,8 @@ This HR dataset consists of 1,470 employee records designed to explore the facto
 
 ## Dashboard Preview
 
+<img width="1920" height="1080" alt="HR Analytics Report" src="https://github.com/user-attachments/assets/14722cd8-3b54-4d30-9bc4-40a8b5fe3365" />
+
 ---
 
 ## Dashboard Breakdown
