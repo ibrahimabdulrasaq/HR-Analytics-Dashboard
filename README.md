@@ -31,7 +31,7 @@ This project is designed to answer critical stakeholder questions:
 ## Dataset Description
 This HR dataset consists of 1,470 employee records designed to explore the factors influencing employee attrition and performance. It combines demographic data, such as age and education, with professional details like job role, department, and monthly income, as well as subjective metrics including job satisfaction, work-life balance, and relationship ratings. The dataset serves as a comprehensive tool for identifying patterns in turnover and understanding how various workplace factors impact long-term employee retention.
 
-**Raw Data Snapshot**
+**Raw Dataset Snapshot**
 <img width="1366" height="494" alt="Raw Dataset" src="https://github.com/user-attachments/assets/508afaf1-55c8-421e-8406-ac92da67305d" />
 
 --- 
@@ -92,7 +92,7 @@ This HR dataset consists of 1,470 employee records designed to explore the facto
 
 ### 4. Dashboard Design & Wireframing
 
-* Created structured wireframes using **Figma**
+* Created structured wireframes using Figma
 * Designed 3 analytical dashboards focused on:
 
   * Workforce Overview
@@ -178,10 +178,10 @@ This HR dataset consists of 1,470 employee records designed to explore the facto
 
 This project moves beyond dashboards to provide:
 
-* ✅ **Data-driven retention insights**
-* ✅ Identification of **high-risk employee segments**
-* ✅ Clear understanding of **attrition drivers**
-* ✅ A foundation for **HR decision-making and strategy**
+* ✅ Data-driven retention insights
+* ✅ Identification of high-risk employee segments
+* ✅ Clear understanding of attrition drivers
+* ✅ A foundation for HR decision-making and strategy
 
 ---
 
@@ -223,7 +223,7 @@ Departments with high attrition rates require targeted interventions:
 
 ### 4. Promote Workplace Well-Being
 
-Poor work-life balance and low environment satisfaction contribute to employee exits. The organization should:
+Poor work-life balance and low environmental satisfaction contribute to employee exits. The organization should:
 
 * Foster a healthier workplace culture
 * Encourage employee wellness initiatives
@@ -308,7 +308,7 @@ This ensures insights are communicated clearly and effectively.
 
 ---
 
-## Explore The Full View Of The Dashboard
+## Explore The Full View Of The Report
 <img width="967" height="546" alt="Page 1" src="https://github.com/user-attachments/assets/21bd36a0-9064-4baa-be12-b08b0f913e5b" />
 
 <img width="967" height="544" alt="Page 2" src="https://github.com/user-attachments/assets/0c12bdf2-e0ff-4810-8973-5841aa0c632e" />
