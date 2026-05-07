@@ -7,7 +7,7 @@ Is it compensation, workload, job satisfaction, or something deeper?
 
 This project delivers a complete end-to-end HR Analytics solution, transforming raw employee data into actionable workforce intelligence. The analysis goes beyond surface-level reporting to uncover key drivers of attrition, workforce patterns, and retention risks.
 
-Built using Power BI, Excel, and Power Query, this project follows a structured analytics workflow, from data cleaning and modeling to insight generation and executive-ready dashboards.
+Built using Power BI Power Query, this project follows a structured analytics workflow, from data cleaning and modeling to insight generation and executive-ready dashboards.
 
 ---
 
@@ -30,6 +30,9 @@ This project is designed to answer critical stakeholder questions:
 ---
 ## Dataset Description
 This HR dataset consists of 1,470 employee records designed to explore the factors influencing employee attrition and performance. It combines demographic data, such as age and education, with professional details like job role, department, and monthly income, as well as subjective metrics including job satisfaction, work-life balance, and relationship ratings. The dataset serves as a comprehensive tool for identifying patterns in turnover and understanding how various workplace factors impact long-term employee retention.
+
+**Raw Data Snapshot**
+<img width="1366" height="494" alt="Raw Dataset" src="https://github.com/user-attachments/assets/508afaf1-55c8-421e-8406-ac92da67305d" />
 
 --- 
 
