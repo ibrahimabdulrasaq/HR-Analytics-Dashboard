@@ -13,7 +13,7 @@ Built using Power BI Power Query, this project follows a structured analytics wo
 
 ## Live Interactive Dashboard
 
-[Interact with the dashboard here]()
+[Interact with the dashboard here](https://www.novypro.com/profile_about/1768603691117x499853414232449100?Popup=memberProject&Data=1778115277995x425659025797783230)
 
 ---
 
